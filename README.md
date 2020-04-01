@@ -44,6 +44,8 @@ lyocell.addEventListener("click", function() {
 });
 ```
 
+Voir la correction sur [Codepen](https://codepen.io/heticschool/pen/XWbVYoy)
+
 ## Partie 2
 
 ```
@@ -73,6 +75,8 @@ Colpurple.addEventListener("click", function() {
   root.style.setProperty("--third-bg-color", "purple");
 });
 ```
+
+Voir la correction sur [Codepen](https://codepen.io/heticschool/pen/gOpEzKK)
 
 ## Partie 3
 
@@ -181,3 +185,5 @@ btnTest5.addEventListener("click", function() {
 
 });
 ```
+
+Voir la correction sur [Codepen](https://codepen.io/heticschool/pen/abOMKBL)
